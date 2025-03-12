@@ -1,4 +1,8 @@
 # Praktikum_Search_Algorithms
+
+Nama : Mochamad Risyad Fauzan
+Nim  : 2306038
+
 #Deskripsi
 
 Repository ini berisi implementasi berbagai algoritma pencarian dalam Pyhton. Algoritma pencarian ini digunakan untuk menemukan jalur atau solusi dalam suatu ruang pencarian. Dalam proyek ini, kami mengimplementasikan berbagai algoritma pencarian, baik yang tidak berinformasi (uninformed search) maupun yang berinfomasi (informed search).

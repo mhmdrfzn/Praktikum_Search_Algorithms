@@ -16,11 +16,6 @@ Breadth First Search (BFS) - Algoritma yang menelusuri simpul secara mendatar, d
 Uniform Cost Search (UCS) - Algoritma yang menggunakan antrian prioritas untuk mengeksplorasi jalur dengan biaya paling rendah terlebih dahulu.
 Informed Search (Berinformasi)
 
-Greedy Best-First Search - Algoritma yang memilih simpul berdasarkan nilai heuristiknya, tanpa mempertimbangkan biaya yang sudah dikeluarkan.
-A* Tree Search** - Algoritma yang menggunakan kombinasi biaya langkah (g) dan heuristik (h) untuk mencari jalur optimal dalam struktur pohon.
-A* Graph Search** - Mirip dengan A* Tree Search tetapi menghindari eksplorasi ulang simpul yang sudah dikunjungi.
-#Cara Menjalankan di Google Colab
-
 Clone repository ini ke Google Colab atau komputer lokal
 Jalankan script yang diinginkan dengan Python
 Jika menggunakan Google Colab, unggah file terlebih dahulu dan jalankan

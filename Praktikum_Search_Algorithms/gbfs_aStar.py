@@ -74,7 +74,6 @@ class Graph:
         path.reverse()
         return path
 
-# Contoh Penggunaan
 graph = Graph()
 print("Greedy Best First Search:", graph.greedy_best_first_search('S', 'G'))
 print("A* Search:", graph.a_star_search('S', 'G'))
